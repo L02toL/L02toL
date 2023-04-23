@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# Hello im L_02L 🤗🤗
+### So who am i?
+nickname : L_02L 
+age : 18
+nationality : korea 
 <!--
 **L02toL/L02toL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
