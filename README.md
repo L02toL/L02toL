@@ -15,7 +15,7 @@ C++ <br/>
 ### i wanna learn / im learning...
 MYSQL <br/>
 C# (unity) <br/>
-pythoon <br/>
+python <br/>
 HTML / CSS / JS <br/>
 ## other link?
 roblox : <br/>
